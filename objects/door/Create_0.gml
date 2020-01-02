@@ -1,0 +1,1 @@
+player_next_too = false
